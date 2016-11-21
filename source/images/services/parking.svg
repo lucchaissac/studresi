@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>Bounds</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="17"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="34" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing-page" transform="translate(-791.000000, -1796.000000)">
+            <g id="services" transform="translate(0.000000, 1597.000000)">
+                <g transform="translate(250.000000, 90.000000)" id="highlights">
+                    <g transform="translate(0.000000, 109.000000)">
+                        <g id="service" transform="translate(541.000000, 0.000000)">
+                            <g id="Parking">
+                                <rect id="Bounds" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="50" height="50"></rect>
+                                <use id="Oval" stroke="#000000" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                                <path d="M32.006,21.753 C32.006,23.1330069 31.5498379,24.2446624 30.6375,25.088 C29.7251621,25.9313376 28.372009,26.353 26.578,26.353 L23.335,26.353 L23.335,33 L21.725,33 L21.725,17.13 L26.578,17.13 C28.3566756,17.13 29.7059954,17.5554957 30.626,18.4065 C31.5460046,19.2575043 32.006,20.3729931 32.006,21.753 Z M23.335,25.042 L26.578,25.042 C29.1080126,25.042 30.373,23.9418443 30.373,21.7415 C30.373,19.5411557 29.1080126,18.441 26.578,18.441 L23.335,18.441 L23.335,25.042 Z" id="P" fill="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

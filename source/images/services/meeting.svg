@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>Bounds</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="10" y="18" width="30" height="14" rx="7"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="32" height="16">
+            <rect x="9" y="17" width="32" height="16" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <circle id="path-3" cx="5" cy="25" r="2"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <circle id="path-5" cx="8" cy="17" r="2"></circle>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <circle id="path-7" cx="8" cy="33" r="2"></circle>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <circle id="path-9" cx="16" cy="37" r="2"></circle>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <circle id="path-11" cx="25" cy="37" r="2"></circle>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <circle id="path-13" cx="16" cy="13" r="2"></circle>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <circle id="path-15" cx="45" cy="25" r="2"></circle>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <circle id="path-17" cx="42" cy="17" r="2"></circle>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <circle id="path-19" cx="42" cy="33" r="2"></circle>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <circle id="path-21" cx="34" cy="37" r="2"></circle>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-21"></use>
+        </mask>
+        <circle id="path-23" cx="34" cy="13" r="2"></circle>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-23"></use>
+        </mask>
+        <circle id="path-25" cx="25" cy="13" r="2"></circle>
+        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4" fill="white">
+            <use xlink:href="#path-25"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing-page" transform="translate(-1002.000000, -1917.000000)">
+            <g id="services" transform="translate(0.000000, 1597.000000)">
+                <g transform="translate(250.000000, 90.000000)" id="highlights">
+                    <g transform="translate(0.000000, 109.000000)">
+                        <g id="service" transform="translate(752.000000, 121.000000)">
+                            <g id="Reunion">
+                                <rect id="Bounds" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="50" height="50"></rect>
+                                <use id="Rectangle" stroke="#000000" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-8)" stroke-width="2" xlink:href="#path-7"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-10)" stroke-width="2" xlink:href="#path-9"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-12)" stroke-width="2" xlink:href="#path-11"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-14)" stroke-width="2" xlink:href="#path-13"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-16)" stroke-width="2" xlink:href="#path-15"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-18)" stroke-width="2" xlink:href="#path-17"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-20)" stroke-width="2" xlink:href="#path-19"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-22)" stroke-width="2" xlink:href="#path-21"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-24)" stroke-width="2" xlink:href="#path-23"></use>
+                                <use id="Oval-4" stroke="#000000" mask="url(#mask-26)" stroke-width="2" xlink:href="#path-25"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

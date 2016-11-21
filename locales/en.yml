@@ -1,3 +1,66 @@
 en:
+
   header:
-    logo: Studresi
+    logo: <strong>Studresi</strong> Résidences étudiantes Tarbes
+
+  flash:
+    visits: |
+      Visites & préréservations gratuites avant résultats examens. <span>Contactez-nous dès maintenant</span>
+
+  contacts:
+    list:
+      tel:
+        title: 06 87 12 06 13
+        url: tel:+33687120613
+      mail:
+        title: Contactez-nous par Email
+        url: mailto:"#"
+
+  distance:
+    title: |
+      À 10min à pied du Pôle Universitaire.
+      <span>Commerces et services de proximités dans un rayon de 200m.</span>
+
+  flat:
+    list:
+      studio:
+        title: Studios de 17 à 22m2
+        description: À partir de 315€
+      t1:
+        title: T1 bis de 22 à 35m2
+        description: À partir de 380€
+      t2:
+        title: T2 Mezzanine de 35 à 50m2
+        description: À partir de 420€
+      t3:
+        title: T3 de 50 à 58m2
+        description: À partir de 420€
+
+  services:
+    title: |
+      Logements meublés.
+      <span>Équipements et services inclus.</span>
+    highlights:
+      wifi:
+        title: Wifi gratuit
+        description: par fibre optique
+      guards:
+        title: Gardiens
+        description: Conciergerie
+      parking:
+        title: Parking
+        description: personnel
+      laundromat:
+        title: Laverie
+        description: 24/24 - 7/7
+    list:
+      dishes:
+        title: Kit vaisselle
+      bike:
+        title: Local à vélo
+      handicap:
+        title: Accès handicapé
+      tv:
+        title: TV Satellite
+      meeting:
+        title: Salle de réunion

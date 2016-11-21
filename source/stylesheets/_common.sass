@@ -16,5 +16,118 @@ body
 a
   color: $color-text
   text-decoration: none
+
+h2
+  font-size: 26px
+  color: $color-brand
+  font-weight: 600
+  line-height: 34px
+  span
+    display: block
+    color: $color-text
+    font-weight: 300
+
+
+.wrapper
+  max-width: 940px
+  margin: 0 auto
+  position: relative
+
+.flash
+  background: $color-brand
+  border-radius: 3px
+  padding: 24px 24px 22px
+  margin: 0 0 10px
+  font-size: 16px
+  font-weight: 600
+  color: white
+  display: block
+  text-align: center
+  span
+    background: url(../images/icons/arrow-right.svg) no-repeat right 2px
+    padding: 0 28px 0 0
+    border-bottom: 1px solid rgba(255,255,255, .6)
   &:hover
-    color: $color-brand
+
+header
+  position: relative
+  margin: 20px 0
+  h1
+    font-size: 18px
+    margin: 0
+    padding: 11px 0
+    font-weight: 400
+  ul
+    list-style: none
+    padding: 0
+    margin: 0
+    overflow: hidden
+    float: right
+    position: absolute
+    right: 0
+    top: 14px
+    li
+      display: inline-block
+      a
+        padding: 0 0 0 30px
+        margin: 0 0 0 20px
+        &.tel
+          background: url(../images/icons/tel.svg) no-repeat 4px 0
+        &.mail
+          background: url(../images/icons/mail.svg) no-repeat 4px 0
+          color: $color-brand
+
+.map
+  max-width: 940px
+
+.flat
+  padding: 90px 0
+  ul
+    list-style: none
+    padding: 0
+    margin: 0
+    display: flex
+    flex-direction: row
+    flex-wrap: wrap
+    justify-content: space-between
+    li
+      padding: 0
+      margin: 0
+      display: inline-block
+      img
+        display: block
+        margin-bottom: 14px
+      h3
+        margin: 0
+        padding: 0
+        font-size: 20px
+        font-weight: 600
+      p
+        margin: 0 0 30px
+        padding: 0
+        font-size: 18px
+        opacity: .5
+        font-weight: 400
+
+.services
+  padding: 90px 0
+  background: #F9F9F9
+  box-shadow: inset 0 1px 0 0 rgba(0,0,0,0.05), inset 0 -1px 0 0 rgba(0,0,0,0.05)
+  ul
+    list-style: none
+    padding: 0
+    margin: 0
+    &.highlights
+      border-bottom: 1px solid #F0F0F0
+      padding: 0 0 30px
+      margin: 0 0 30px
+      li
+        width: 25%
+        display: inline-block
+        line-height: 24px
+        strong
+          display: block
+    &.list
+      li
+        width: 20%
+        display: inline-block

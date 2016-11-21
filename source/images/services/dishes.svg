@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>Bounds</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="21" width="5" height="14" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5" height="14" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M4.45485091,1.24972761 C5.30821319,0.559522108 6,0.890925393 6,1.99742191 L6,17.0025781 C6,18.1057238 5.1061002,19 3.9951185,19 L3.0048815,19 C1.89761602,19 0.807189941,18.1175232 0.607643649,17.0392903 C0.607643649,17.0392903 3.33066907e-16,15 0,10 C0,4 4.45485091,1.24972761 4.45485091,1.24972761 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6" height="18.1101386" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="1" y="15" width="5" height="20" rx="2"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5" height="20" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing-page" transform="translate(-250.000000, -1917.000000)">
+            <g id="services" transform="translate(0.000000, 1597.000000)">
+                <g transform="translate(250.000000, 90.000000)" id="highlights">
+                    <g transform="translate(0.000000, 109.000000)">
+                        <g id="service" transform="translate(0.000000, 121.000000)">
+                            <g id="Vaisselle">
+                                <rect id="Bounds" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="50" height="50"></rect>
+                                <g id="Cut" transform="translate(29.000000, 8.000000)">
+                                    <rect id="icon" fill="#000000" x="3" y="19" width="1" height="2"></rect>
+                                    <use id="icon" stroke="#000000" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                                    <use id="icon" stroke="#000000" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                                </g>
+                                <g id="Fork" transform="translate(15.000000, 8.000000)">
+                                    <rect id="icon" fill="#000000" x="3" y="13" width="1" height="2"></rect>
+                                    <use id="icon" stroke="#000000" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
+                                    <path d="M0,8 L7,8" id="Path-7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <rect id="Rectangle-9" fill="#000000" x="3" y="0" width="1" height="8" rx="0.5"></rect>
+                                    <path d="M7,0.5 L7,9.49684459 C7,11.4315839 5.42906336,13 3.5,13 C1.56700338,13 0,11.4312096 0,9.49684459 L0,0.5" id="Rectangle-8" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
