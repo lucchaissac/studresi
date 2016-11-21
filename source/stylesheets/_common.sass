@@ -117,6 +117,15 @@ header
     list-style: none
     padding: 0
     margin: 0
+    li
+      position: relative
+      img
+        position: absolute
+        left: 0
+        top: 0
+      p
+        padding: 0
+        margin: 0
     &.highlights
       border-bottom: 1px solid #F0F0F0
       padding: 0 0 30px
@@ -125,9 +134,18 @@ header
         width: 25%
         display: inline-block
         line-height: 24px
-        strong
-          display: block
+        position: relative
+        p
+          margin: 0 0 0 60px
+          strong
+            display: block
     &.list
       li
         width: 20%
         display: inline-block
+        p
+          margin: 0 0 0 54px
+          position: relative
+
+.links
+  padding: 90px 0
