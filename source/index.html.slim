@@ -1,9 +1,15 @@
 .wrapper
-  = image_tag "images/tarbes-map@2x.png", class: "map"
+  .preview-slider
+    ul
+      li
+        = image_tag "images/tarbes-map@2x.png", class: "map"
+      li
+        = image_tag "images/building@2x.jpg", class: "map"
+  //
 
 .flat
   .wrapper
-    h2 = t 'distance.title'
+    h2.distance = t 'distance.title'
     
     ul
       - t('flat.list').each do |id, flat|
