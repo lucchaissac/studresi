@@ -3,11 +3,11 @@
     h2 = t 'links.title'
     .more
       - t('links.more').each do |id, links|
-        = link_to links[:url], class: "#{id}", target: "_blank"
+        = link_to links[:url], class: "#{id}"
           h3 = links[:title]
-          p = links[:title]
+          p = links[:description]
     ul
       - t('links.school').each do |id, links|
         li
-          = link_to links[:url], class: "#{id}", target: "_blank"
+          = link_to links[:url], class: "#{id}"
             = image_tag "images/school/#{id}.png"

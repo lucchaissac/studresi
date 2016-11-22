@@ -1,0 +1,11 @@
+.flat.related
+  .wrapper
+    h2.distance = t 'distance.title'
+    
+    ul
+      - t('flat.list').each do |id, flat|
+        li
+          = link_to "#{id}", class: "#{id}"
+            = image_tag "images/flat/#{id}.jpg"
+            h3 = flat[:title]
+            p = flat[:description]

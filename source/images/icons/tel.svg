@@ -4,11 +4,11 @@
     <title>phone</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="5" y="2" width="14" height="21" rx="2"></rect>
+        <rect id="path-1" x="5" y="1" width="14" height="21" rx="2"></rect>
         <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="21" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <rect id="path-3" x="7" y="6" width="10" height="13"></rect>
+        <rect id="path-3" x="7" y="5" width="10" height="13"></rect>
         <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="13" fill="white">
             <use xlink:href="#path-3"></use>
         </mask>
@@ -18,10 +18,10 @@
             <g id="hero" transform="translate(247.000000, 30.000000)">
                 <g id="header">
                     <g id="tel" transform="translate(548.000000, 0.000000)">
-                        <g id="phone" transform="translate(0.000000, 2.000000)">
-                            <use stroke="#000000" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"></use>
-                            <use stroke="#000000" mask="url(#mask-4)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-3"></use>
-                            <rect id="icon" fill="#000000" x="10" y="4" width="4" height="1"></rect>
+                        <g id="phone" transform="translate(0.000000, 3.000000)">
+                            <use stroke="#000000" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                            <use stroke="#000000" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                            <rect id="icon" fill="#000000" x="10" y="3" width="4" height="1"></rect>
                         </g>
                     </g>
                 </g>

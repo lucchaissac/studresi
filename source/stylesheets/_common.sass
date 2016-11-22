@@ -48,8 +48,12 @@ h2
   span
     background: url(../images/icons/arrow-right.svg) no-repeat right 2px
     padding: 0 28px 0 0
-    border-bottom: 1px solid rgba(255,255,255, .6)
+    border-bottom: 1px solid rgba(255,255,255, .4)
+    transition: .3s
   &:hover
+    span
+      border-bottom: 1px solid rgba(255,255,255, 1)
+      transition: .3s
 
 header
   position: relative
@@ -71,6 +75,7 @@ header
     li
       display: inline-block
       a
+        font-weight: 400
         padding: 0 0 0 30px
         margin: 0 0 0 20px
         &.tel
@@ -120,9 +125,10 @@ header
     border-radius: 6px
     display: inline-block
     margin: 30px 0
+    line-height: 20px
     h3
       font-weight: 600
-      margin: 17px 0 0
+      margin: 17px 0 10px
       padding: 0
       font-size: 16px
       color: #0F6BAF
@@ -142,6 +148,7 @@ header
         border-radius: 4px
         display: block
         padding: 12px 0
+        font-weight: 400
         &.tel
           background: #F9F9F9
         &.mail
@@ -188,3 +195,8 @@ footer
       li
         display: inline-block
         margin: 0 0 0 10px
+
+@media screen and (max-width: 900px)
+  .wrapper
+    padding-right: 10px
+    padding-left: 10px

@@ -16,9 +16,11 @@ en:
         title: T3 étudiant
     social:
       twitter:
-        url: todo
+        url: |
+          #
       facebook:
-        url: todo
+        url: |
+          #
 
   flash:
     visits: |
@@ -151,25 +153,33 @@ en:
       af:
         title: Avez-vous le droit à l’aide au logement ?
         description: Faites votre simulation sur le site de la CAF !
-        url: todo
+        url: https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lelogement
       cgl:
         title: Conditions de locations.
         description: Bail de location et pièces à fournir.
         url: ../conditions-de-locations
     school:
       college:
-        url: todo
+        url: |
+          #
       staps:
-        url: todo
+        url: |
+          #
       enit:
-        url: todo
+        url: |
+          #
       iut:
-        url: todo
+        url: |
+          #
       jd:
-        url: todo
+        url: |
+          #
       saint-pierre:
-        url: todo
+        url: |
+          #
       marie-currie:
-        url: todo
+        url: |
+          #
       ifsi:
-        url: todo
+        url: |
+          #

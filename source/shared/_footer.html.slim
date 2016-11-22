@@ -4,7 +4,7 @@ footer
     ul.flat
       - t('footer.list').each do |id, footer|
         li
-          = link_to footer[:url], class: "#{id}"
+          = link_to "#{id}", class: "#{id}"
             = footer[:title]
     ul.social
       - t('footer.social').each do |id, footer|

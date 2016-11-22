@@ -1,7 +1,7 @@
 jQuery(document).ready(function($) {
 	$('.preview-slider').unslider({
-    autoplay: true,
-    speed: 1500,
-    infinite: true
+    speed: 1000,
+    infinite: true,
+    delay: 3000,
   });
 });
