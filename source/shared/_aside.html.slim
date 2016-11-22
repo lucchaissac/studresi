@@ -1,0 +1,9 @@
+.aside  
+  = link_to "todo", class: "af", target: "_blank"
+    h3 = t 'links.more.af.title'
+    p = t 'links.more.af.title'
+  ul.contacts
+    - t('contacts.list').each do |id, contacts|
+      li
+        = link_to contacts[:url], class: "#{id}"
+          span class="#{id}" = contacts[:title]

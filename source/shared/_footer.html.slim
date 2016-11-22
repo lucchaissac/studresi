@@ -1,0 +1,14 @@
+footer
+  .wrapper
+    strong = t 'footer.copyright'
+    ul.flat
+      - t('footer.list').each do |id, footer|
+        li
+          = link_to footer[:url], class: "#{id}"
+            = footer[:title]
+    ul.social
+      - t('footer.social').each do |id, footer|
+        li
+          = link_to footer[:url], class: "#{id}"
+            = image_tag "images/icons/#{id}.svg"
+        

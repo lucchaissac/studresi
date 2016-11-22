@@ -1,0 +1,15 @@
+.services
+  .wrapper
+    h2 = t 'services.title'
+    ul.highlights
+      - t('services.highlights').each do |id, services|
+        li
+          = image_tag "images/services/#{id}.svg"
+          p 
+            strong = services[:title]
+            = services[:description]
+    ul.list
+      - t('services.list').each do |id, services|
+        li
+          = image_tag "images/services/#{id}.svg"
+          p = services[:title]

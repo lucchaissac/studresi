@@ -52,7 +52,7 @@ h2
 header
   position: relative
   margin: 20px 0
-  h1
+  .logo
     font-size: 18px
     margin: 0
     padding: 11px 0
@@ -77,75 +77,112 @@ header
           background: url(../images/icons/mail.svg) no-repeat 4px 0
           color: $color-brand
 
-.map
-  max-width: 940px
 
-.flat
-  padding: 90px 0
+.wrapper.content-page
+  display: flex
+  flex-direction: row
+  flex-wrap: wrap
+  justify-content: space-between
+
+.content
+  padding: 30px 0 90px
+  max-width: 574px
+  h1
+    margin: 0
+    padding: 0
+  h2
+    margin-top: 40px
+  h3
+    margin-bottom: 0
+    + ul
+      margin: 6px 0 0
   ul
     list-style: none
     padding: 0
-    margin: 0
-    display: flex
-    flex-direction: row
-    flex-wrap: wrap
-    justify-content: space-between
+    margin: 20px 0
+    font-weight: 400
     li
+      padding: 0 0 0 15px
+      margin: 0 0 0 2px
+      background: url(../images/icons/dot-list-brand.svg) no-repeat 0 10px
+
+.map-partial
+  padding: 90px 0 0
+
+.aside
+  width: 300px
+  .af
+    background: #F9F9F9 url(../images/icons/af-large.svg) no-repeat
+    width: calc(100%-40px)
+    padding: 100px 20px 20px
+    border-radius: 6px
+    display: inline-block
+    margin: 30px 0
+    h3
+      font-weight: 600
+      margin: 17px 0 0
       padding: 0
-      margin: 0
-      display: inline-block
-      img
-        display: block
-        margin-bottom: 14px
-      h3
-        margin: 0
-        padding: 0
-        font-size: 20px
-        font-weight: 600
-      p
-        margin: 0 0 30px
-        padding: 0
-        font-size: 18px
-        opacity: .5
-        font-weight: 400
-
-.services
-  padding: 90px 0
-  background: #F9F9F9
-  box-shadow: inset 0 1px 0 0 rgba(0,0,0,0.05), inset 0 -1px 0 0 rgba(0,0,0,0.05)
-  ul
+      font-size: 16px
+      color: #0F6BAF
+    p
+      font-weight: 400
+      margin: -4px 0 0
+      padding: 0
+  ul.contacts
     list-style: none
     padding: 0
     margin: 0
     li
-      position: relative
-      img
-        position: absolute
-        left: 0
-        top: 0
-      p
-        padding: 0
-        margin: 0
-    &.highlights
-      border-bottom: 1px solid #F0F0F0
-      padding: 0 0 30px
-      margin: 0 0 30px
-      li
-        width: 25%
-        display: inline-block
-        line-height: 24px
-        position: relative
-        p
-          margin: 0 0 0 60px
-          strong
-            display: block
-    &.list
-      li
-        width: 20%
-        display: inline-block
-        p
-          margin: 0 0 0 54px
-          position: relative
+      margin: 0 0 10px
+      a
+        width: 100%
+        text-align: center
+        border-radius: 4px
+        display: block
+        padding: 12px 0
+        &.tel
+          background: #F9F9F9
+        &.mail
+          background: $color-brand
+        span
+          padding: 0 0 0 30px
+          &.tel
+            background: url(../images/icons/tel.svg) no-repeat 4px 0
+          &.mail
+            background: $color-brand url(../images/icons/mail-white.svg) no-repeat 4px 0
+            color: white
 
-.links
-  padding: 90px 0
+footer
+  .wrapper
+    border-top: 2px solid $color-text
+    font-size: 14px
+    padding: 40px 0
+    font-weight: 400
+    position: relative
+    strong
+      font-weight: 600
+    .flat
+      margin: 0
+      padding: 0
+      list-style: none
+      li
+        margin: 0
+        padding: 0 6px 0 0
+        display: inline-block
+        &:first-child
+          a::before
+            content: ""
+            margin: 0
+        a::before
+          content: "/"
+          margin: 0 6px 0 0
+    .social
+      margin: 0
+      padding: 0
+      list-style: none
+      position: absolute
+      right: 0
+      top: 40px
+      li
+        display: inline-block
+        margin: 0 0 0 10px

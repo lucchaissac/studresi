@@ -3,6 +3,23 @@ en:
   header:
     logo: <strong>Studresi</strong> Résidences étudiantes Tarbes
 
+  footer:
+    copyright: © Studresi Résidences étudiantes Tarbes
+    list:
+      studio:
+        title: Studio étudiant
+      t1:
+        title: T1 étudiant
+      t2:
+        title: T2 étudiant
+      t3:
+        title: T3 étudiant
+    social:
+      twitter:
+        url: todo
+      facebook:
+        url: todo
+
   flash:
     visits: |
       Visites & préréservations gratuites avant résultats examens. <span>Contactez-nous dès maintenant</span>
@@ -22,19 +39,82 @@ en:
       <span>Commerces et services de proximités dans un rayon de 200m.</span>
 
   flat:
+    conditions:
+      title: Conditions de locations.
+      bail:
+        title: Le bail de location
+        content: |
+          <li>Le bail est un contrat de location en meublé, d’une durée d’un an, renouvelable à son échéance pour une même période, sauf congé du locataire.</li>
+          <li>Il est résiliable à tout moment par le locataire, avec un préavis d’un mois.</li>
+          <li>Il est consenti aux conditions habituelles en matière de meublés.</li>
+          <li>Il indique notamment sa durée, son point de départ, la description du logement avec son ameublement et ses équipements ainsi que du parking, son loyer, le dépôt de garantie et l’engagement de la caution.</li>
+      depot:
+        title: Dêpot de garantie, etc...
+        content: |
+          <li>Le loyer est payable mensuellement et d’avance par chèque ou par virement&nbsp;; il est révisable annuellement selon la variation de l’I.R.L.</li>
+          <li>Le dépôt de garantie est égal à deux mois de loyer hors charges, il est versé à la signature du bail et restitué dans les deux mois de la fin du bail, sauf dégradations ou impayés du fait du locataire.</li>
+          <li>L’Aide de l’Etat (A.L) peut être demandée par le locataire. Voir site internet  www caf.fr</li>
+          <li>La caution garantit le paiement du loyer et des charges locatives par le locataire, ainsi que la bonne exécution par ce dernier des conditions du bail.</li>
+          <li>Une assurance pour risque locatifs est à souscrire par le locataire à l’entrée dans les lieux loués et pour toute la durée du bail.</li>
+      papers:
+        title: Pièces à fournir
+        bail:
+          title: |
+            À la signature du bail :
+          content: |
+            <li>Copie de la carte d’identité du locataire.</li>
+            <li>Copie de la carte d’identité de chaque caution,</li>
+            <li>Copie du dernier rôle d’imposition à l’I.R.P.P. ou des trois derniers bulletins de salaires de la caution.</li>
+        place:
+          title: |
+            À l’entrée dans les lieux
+          content: |
+            <li>L’attestation d’assurance.</li>
     list:
       studio:
         title: Studios de 17 à 22m2
         description: À partir de 315€
+        accommodations: |
+          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
+          <li>Salle de bain avec baignoire.</li>
+          <li>Étagères et penderie.</li>
+          <li>Table, bureau et chaises.</li>
+          <li>Lit en 90 cm ou 140 cm.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       t1:
         title: T1 bis de 22 à 35m2
         description: À partir de 380€
+        accommodations: |
+          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
+          <li>Salle de bain avec baignoire.</li>
+          <li>Étagères et penderie.</li>
+          <li>Table, bureau et chaises.</li>
+          <li>Lit en 90 cm ou 140 cm.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       t2:
         title: T2 Mezzanine de 35 à 50m2
         description: À partir de 420€
+        accommodations: |
+          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
+          <li>Salle de bain avec baignoire.</li>
+          <li>Étagères et penderie.</li>
+          <li>Table, bureau et chaises.</li>
+          <li>Lit en 90 cm ou 140 cm.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       t3:
         title: T3 de 50 à 58m2
         description: À partir de 420€
+        accommodations: |
+          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
+          <li>Salle de bain avec baignoire.</li>
+          <li>Étagères et penderie.</li>
+          <li>Table, bureau et chaises.</li>
+          <li>Lit en 90 cm ou 140 cm.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
 
   services:
     title: |
@@ -67,3 +147,29 @@ en:
 
   links:
     title: Liens utiles.
+    more:
+      af:
+        title: Avez-vous le droit à l’aide au logement ?
+        description: Faites votre simulation sur le site de la CAF !
+        url: todo
+      cgl:
+        title: Conditions de locations.
+        description: Bail de location et pièces à fournir.
+        url: ../conditions-de-locations
+    school:
+      college:
+        url: todo
+      staps:
+        url: todo
+      enit:
+        url: todo
+      iut:
+        url: todo
+      jd:
+        url: todo
+      saint-pierre:
+        url: todo
+      marie-currie:
+        url: todo
+      ifsi:
+        url: todo

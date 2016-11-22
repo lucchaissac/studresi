@@ -1,0 +1,13 @@
+header
+  .wrapper
+    .logo 
+      = link_to "../"
+        = t 'header.logo'
+    ul
+      - t('contacts.list').each do |id, contacts|
+        li
+          = link_to contacts[:url], class: "#{id}"
+            = contacts[:title]
+
+    = link_to "#", class: "flash"
+      = t 'flash.visits'

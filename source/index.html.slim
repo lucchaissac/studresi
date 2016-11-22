@@ -1,17 +1,3 @@
-
-header
-  .wrapper
-    h1 = t 'header.logo'
-    ul
-      - t('contacts.list').each do |id, contacts|
-        li
-          = link_to contacts[:url], class: "#{id}"
-            = contacts[:title]
-      
-.wrapper
-  = link_to "#", class: "flash"
-    = t 'flash.visits'
-
 .wrapper
   = image_tag "images/tarbes-map@2x.png", class: "map"
 
@@ -22,27 +8,11 @@ header
     ul
       - t('flat.list').each do |id, flat|
         li
-          = link_to flat[:url], class: "#{id}"
+          = link_to "#{id}", class: "#{id}"
             = image_tag "images/flat/#{id}.jpg"
             h3 = flat[:title]
             p = flat[:description]
 
-.services
-  .wrapper
-    h2 = t 'services.title'
-    ul.highlights
-      - t('services.highlights').each do |id, services|
-        li
-          = image_tag "images/services/#{id}.svg"
-          p 
-            strong = services[:title]
-            = services[:description]
-    ul.list
-      - t('services.list').each do |id, services|
-        li
-          = image_tag "images/services/#{id}.svg"
-          p = services[:title]
+= partial 'shared/services'
 
-.links
-  .wrapper
-    h2 = t 'links.title'
+= partial 'shared/links'
