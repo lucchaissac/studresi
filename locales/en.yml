@@ -5,6 +5,7 @@ en:
 
   footer:
     copyright: © Studresi Résidences étudiantes Tarbes
+    address: <a href="https://goo.gl/maps/RHsy6CkUnxF2" target="_blank">28 Rue Sainte-Catherine, 65000 Tarbes</a>
     list:
       studio:
         title: Studio étudiant
@@ -55,7 +56,7 @@ en:
         content: |
           <li>Le loyer est payable mensuellement et d’avance par chèque ou par virement&nbsp;; il est révisable annuellement selon la variation de l’I.R.L.</li>
           <li>Le dépôt de garantie est égal à deux mois de loyer hors charges, il est versé à la signature du bail et restitué dans les deux mois de la fin du bail, sauf dégradations ou impayés du fait du locataire.</li>
-          <li>L’Aide de l’Etat (A.L) peut être demandée par le locataire. Voir site internet  www caf.fr</li>
+          <li>L’Aide de l’Etat (A.L) peut être demandée par le locataire. Voir site internet <a href="http://www.caf.fr" target="_blank">www.caf.fr</a></li>
           <li>La caution garantit le paiement du loyer et des charges locatives par le locataire, ainsi que la bonne exécution par ce dernier des conditions du bail.</li>
           <li>Une assurance pour risque locatifs est à souscrire par le locataire à l’entrée dans les lieux loués et pour toute la durée du bail.</li>
       papers:
@@ -73,8 +74,30 @@ en:
           content: |
             <li>L’attestation d’assurance.</li>
     list:
-      studio:
-        title: Studios de 17 à 22m2
+      studio-type-1:
+        title: Studios type 3 de 17 à 22m2
+        description: À partir de 315€
+        accommodations: |
+          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
+          <li>Salle de bain avec baignoire.</li>
+          <li>Étagères et penderie.</li>
+          <li>Table, bureau et chaises.</li>
+          <li>Lit en 90 cm ou 140 cm.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
+      studio-type-2:
+        title: Studios type 2 de 17 à 22m2
+        description: À partir de 315€
+        accommodations: |
+          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
+          <li>Salle de bain avec baignoire.</li>
+          <li>Étagères et penderie.</li>
+          <li>Table, bureau et chaises.</li>
+          <li>Lit en 90 cm ou 140 cm.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
+      studio-type-3:
+        title: Studios type 2 de 17 à 22m2
         description: À partir de 315€
         accommodations: |
           <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>

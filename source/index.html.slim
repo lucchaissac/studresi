@@ -1,11 +1,14 @@
 .wrapper
   .preview-slider
     ul
-      li
+      //li
+        = link_to "https://goo.gl/maps/RHsy6CkUnxF2", target: "_blank", class: "direction"
+          = image_tag "images/icons/direction.svg"
         = image_tag "images/tarbes-map@2x.png", class: "map"
       li
+        .map-view
+      li
         = image_tag "images/building@2x.jpg", class: "map"
-  //
 
 .flat
   .wrapper
