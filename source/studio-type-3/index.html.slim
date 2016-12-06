@@ -1,0 +1,23 @@
+.wrapper
+  .preview-slider
+    ul
+      li
+        = image_tag "images/flat/studio/slide-1.jpg", class: "map"
+      li
+        = image_tag "images/flat/studio/slide-2.jpg", class: "map"
+  
+.wrapper.flat-page.content-page
+  .content
+    h1 = t 'flat.list.studio-type-3.title'
+    p = t 'flat.list.studio-type-3.description'
+
+    ul
+      = t 'flat.list.studio-type-3.accommodations'
+  
+  = partial 'shared/aside'
+
+= partial 'shared/services'
+
+= partial 'shared/map'
+
+= partial 'shared/links'

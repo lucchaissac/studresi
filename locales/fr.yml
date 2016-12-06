@@ -1,4 +1,4 @@
-en:
+fr:
 
   header:
     logo: <strong>Studresi</strong> Résidences étudiantes Tarbes
@@ -68,12 +68,12 @@ en:
           content: |
             <li>Copie de la carte d’identité du locataire.</li>
             <li>Copie de la carte d’identité de chaque caution,</li>
-            <li>Copie du dernier rôle d’imposition à l’I.R.P.P. et des trois derniers bulletins de salaires de la caution.</li>
+            <li>Copie du dernier rôle d’imposition à l’I.R.P.P. ou des trois derniers bulletins de salaires de la caution.</li>
         place:
           title: |
             À l’entrée dans les lieux
           content: |
-            <li>L’attestation d’assurance locative.</li>
+            <li>L’attestation d’assurance.</li>
     list:
       studio-type-1:
         title: Studios type 3 de 17 à 22m2
@@ -84,7 +84,7 @@ en:
           <li>Étagères et penderie.</li>
           <li>Table, bureau et chaises.</li>
           <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       studio-type-2:
         title: Studios type 2 de 17 à 22m2
@@ -95,7 +95,7 @@ en:
           <li>Étagères et penderie.</li>
           <li>Table, bureau et chaises.</li>
           <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       studio-type-3:
         title: Studios type 2 de 17 à 22m2
@@ -106,7 +106,7 @@ en:
           <li>Étagères et penderie.</li>
           <li>Table, bureau et chaises.</li>
           <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       t1:
         title: T1 bis de 22 à 35m2
@@ -117,7 +117,7 @@ en:
           <li>Étagères et penderie.</li>
           <li>Table, bureau et chaises.</li>
           <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       t2:
         title: T2 Mezzanine de 35 à 50m2
@@ -128,7 +128,7 @@ en:
           <li>Étagères et penderie.</li>
           <li>Table, bureau et chaises.</li>
           <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       t3:
         title: T3 de 50 à 58m2
@@ -139,7 +139,7 @@ en:
           <li>Étagères et penderie.</li>
           <li>Table, bureau et chaises.</li>
           <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
+          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
 
   services:
@@ -176,7 +176,7 @@ en:
     more:
       af:
         title: Avez-vous le droit à l’aide au logement ?
-        description: Faites votre simulation sur le site de la F !
+        description: Faites votre simulation sur le site de la CAF !
         url: https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lelogement
       cgl:
         title: Conditions de locations.
