@@ -3,7 +3,7 @@ fr:
   header:
     logo: <strong>Studresi</strong> Résidences étudiantes Tarbes
 
-  address: <a href="https://goo.gl/maps/RHsy6CkUnxF2" target="_blank">28 Rue Sainte-Catherine, 65000 Tarbes</a>
+  address: 28 Rue Sainte-Catherine, 65000 Tarbes
 
   footer:
     copyright: © Studresi Résidences étudiantes Tarbes
@@ -19,10 +19,10 @@ fr:
     social:
       twitter:
         url: |
-          #
+          https://twitter.com/studresi
       facebook:
         url: |
-          #
+          https://www.facebook.com/R%C3%A9sidence-Universitaire-Studr%C3%A9si-122758811539837/?ref=aymt_homepage_panel&__mref=message_bubble
 
   flash:
     visits: |
@@ -40,7 +40,7 @@ fr:
   distance:
     title: |
       À 10min à pied du Pôle Universitaire.
-      <span>Commerces et services de proximités dans un rayon de 200m.</span>
+      <span>Commerces et services de proximités dans un rayon de moins de 200m.</span>
 
   flat:
     conditions:
@@ -76,70 +76,70 @@ fr:
             <li>L’attestation d’assurance.</li>
     list:
       studio-type-1:
-        title: Studios type 3 de 17 à 22m2
-        description: À partir de 315€
+        title: Studios style 1 de 17 à 22m2
+        description: De 310€ à 375€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
+          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, micro-ondes, kit vaisselle, rangements.</li>
+          <li>Salle de bain avec baignoire, lavabo, WC.</li>
           <li>Étagères et penderie.</li>
           <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Lit en 90 cm ou 140 cm avec matelas et alèse.</li>
+          <li>Prise téléphone, interphone, chaînes TV récepteur Satellite ASTRA, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       studio-type-2:
-        title: Studios type 2 de 17 à 22m2
-        description: À partir de 315€
+        title: Studios style 2 de 17 à 22m2
+        description: 310€ à 375€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
+          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, micro-ondes, kit vaisselle, rangements.</li>
+          <li>Salle de bain avec baignoire, lavabo, WC.</li>
           <li>Étagères et penderie.</li>
-          <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Table, bureau, chaises et canapé.</li>
+          <li>Lit en 140 cm avec matelas et alèse.</li>
+          <li>Prise téléphone, interphone, chaînes TV récepteur Satellite ASTRA, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       studio-type-3:
-        title: Studios type 2 de 17 à 22m2
+        title: Studios style 3 de 17 à 22m2
         description: À partir de 315€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
+         <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, micro-ondes, kit vaisselle, rangements.</li>
+          <li>Salle de bain avec baignoire, lavabo, WC.</li>
           <li>Étagères et penderie.</li>
           <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Lit en 90 cm ou 140 cm avec matelas et alèse.</li>
+          <li>Prise téléphone, interphone, chaînes TV récepteur Satellite ASTRA, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       t1:
-        title: T1 bis de 22 à 35m2
-        description: À partir de 380€
+        title: T1 bis de 30 à 48m2
+        description: De 440€ à 460€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
+          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, micro-ondes, kit vaisselle, rangements.</li>
+          <li>Salle de bain avec baignoire, lavabo, WC.</li>
           <li>Étagères et penderie.</li>
-          <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Table, bureau, chaises et canapé.</li>
+          <li>Lit en 140 cm avec matelas et alèse.</li>
+          <li>Prise téléphone, interphone, chaînes TV récepteur Satellite ASTRA, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       t2:
         title: T2 Mezzanine de 35 à 50m2
         description: À partir de 420€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
+          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, micro-ondes, kit vaisselle, rangements.</li>
+          <li>Salle de bain avec baignoire, lavabo, WC.</li>
           <li>Étagères et penderie.</li>
-          <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Table, bureau, chaises et canapé.</li>
+          <li>2 Lits en 140 cm avec matelas et alèses. </li>
+          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite ASTRA, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
       t3:
-        title: T3 de 50 à 58m2
-        description: À partir de 420€
+        title: T3 de 50 à 68m2
+        description: De 510€ à 520€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
+          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, micro-ondes, kit vaisselle, rangements.</li>
+          <li>Salle de bain avec baignoire, lavabo, WC.</li>
           <li>Étagères et penderie.</li>
-          <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV câblées, accés Internet par WIFI.</li>
+          <li>Table, bureau, chaises et canapé.</li>
+          <li>2 Lits en 140 cm avec matelas et alèses. </li>
+          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite ASTRA, accés Internet par WIFI.</li>
           <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
 
   services:
@@ -149,13 +149,13 @@ fr:
     highlights:
       wifi:
         title: Wifi gratuit
-        description: par fibre optique
+        description: Par fibre optique
       guards:
         title: Gardiens
         description: Conciergerie
       parking:
         title: Parking
-        description: personnel
+        description: Personnel
       laundromat:
         title: Laverie
         description: 24/24 - 7/7
@@ -167,7 +167,7 @@ fr:
       handicap:
         title: Accès handicapé
       tv:
-        title: TNT HD ASTRA
+        title: Récepteur Satellite TNT HD ASTRA
       meeting:
         title: Salle de réunion
 
@@ -185,25 +185,25 @@ fr:
     school:
       college:
         url: |
-          #
+          http://www.irth-tarbes.fr/
       staps:
         url: |
-          #
+          http://staps.univ-pau.fr/live/
       enit:
         url: |
-          #
+          http://www.enit.fr/fr/index.html
       iut:
         url: |
-          #
+          http://www.iut-tarbes.fr/
       jd:
         url: |
-          #
+          http://jean-dupuy.entmip.fr/
       saint-pierre:
         url: |
-          #
+          http://www.pradeaulasede.fr/
       marie-currie:
         url: |
-          #
+          http://marie-curie.entmip.fr/
       ifsi:
         url: |
-          #
+          http://www.irth-tarbes.fr/

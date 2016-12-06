@@ -1,7 +1,7 @@
 ###
 # Page options, layouts, aliases and proxies
 ###
-activate :i18n, langs: %i(en)
+activate :i18n, mount_at_root: :fr, langs: [:fr, :en]
 
 # Per-page layout changes:
 #

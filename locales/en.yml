@@ -1,186 +1,186 @@
 en:
 
   header:
-    logo: <strong>Studresi</strong> Résidences étudiantes Tarbes
+    logo: <strong>Studresi</strong> Student Residences in Tarbes
 
-  address: <a href="https://goo.gl/maps/RHsy6CkUnxF2" target="_blank">28 Rue Sainte-Catherine, 65000 Tarbes</a>
+  address: 28 Rue Sainte-Catherine, 65000 Tarbes
 
   footer:
-    copyright: © Studresi Résidences étudiantes Tarbes
+    copyright: © Studresi Student Residences in Tarbes
     list:
       studio:
-        title: Studio étudiant
+        title: Student studio apartment
       t1:
-        title: T1 étudiant
+        title: Student one-roomed apartment
       t2:
-        title: T2 étudiant
+        title: Student one-bedroom apartment
       t3:
-        title: T3 étudiant
+        title: Student two-roomed apartment
     social:
       twitter:
         url: |
-          #
+          https://twitter.com/studresi
       facebook:
         url: |
-          #
+          https://www.facebook.com/R%C3%A9sidence-Universitaire-Studr%C3%A9si-122758811539837/?ref=aymt_homepage_panel&__mref=message_bubble
 
   flash:
     visits: |
-      Visites & préréservations gratuites avant résultats examens. <span>Contactez-nous dès maintenant</span>
+      Free viewing and pre-booking before exam results. <span>Contact us now</span>
 
   contacts:
     list:
       tel:
-        title: 06 87 12 06 13
+        title: +336 87 12 06 13
         url: tel:+33687120613
       mail:
-        title: Contactez-nous par Email
+        title: Contact us by email
         url: mailto:"#"
 
   distance:
     title: |
-      À 10min à pied du Pôle Universitaire.
-      <span>Commerces et services de proximités dans un rayon de 200m.</span>
+      10 minutes walking from the University center.
+      <span>Convenient stores and services closed to within 200 yards.</span>
 
   flat:
     conditions:
-      title: Conditions de locations.
+      title: Renting Conditions.
       bail:
-        title: Le bail de location
+        title: Lease Agreement
         content: |
-          <li>Le bail est un contrat de location en meublé, d’une durée d’un an, renouvelable à son échéance pour une même période, sauf congé du locataire.</li>
-          <li>Il est résiliable à tout moment par le locataire, avec un préavis d’un mois.</li>
-          <li>Il est consenti aux conditions habituelles en matière de meublés.</li>
-          <li>Il indique notamment sa durée, son point de départ, la description du logement avec son ameublement et ses équipements ainsi que du parking, son loyer, le dépôt de garantie et l’engagement de la caution.</li>
+          <li>The lease runs for a furnished apartment, for a one year duration, renewable at the end for the same period, exept leave of the tenant.</li>
+          <li>It can be terminated at any time by the tenant, with a one month notice period.</li>
+          <li>It is granted on the usual conditions of a furnished apartment.</li>
+          <li>It indicates in particular its duration, starting point, the description of the apartment with its furnishings and equipment as well as the parking, its rent, the security deposit and the commitment of the deposit.</li>
       depot:
-        title: Dêpot de garantie, etc...
+        title: Security deposit, etc ...
         content: |
-          <li>Le loyer est payable mensuellement et d’avance par chèque ou par virement&nbsp;; il est révisable annuellement selon la variation de l’I.R.L.</li>
-          <li>Le dépôt de garantie est égal à deux mois de loyer hors charges, il est versé à la signature du bail et restitué dans les deux mois de la fin du bail, sauf dégradations ou impayés du fait du locataire.</li>
-          <li>L’Aide de l’Etat (A.L) peut être demandée par le locataire. Voir site internet <a href="http://www.caf.fr" target="_blank">www.caf.fr</a></li>
-          <li>La caution garantit le paiement du loyer et des charges locatives par le locataire, ainsi que la bonne exécution par ce dernier des conditions du bail.</li>
-          <li>Une assurance pour risque locatifs est à souscrire par le locataire à l’entrée dans les lieux loués et pour toute la durée du bail.</li>
+          <li>The rent is payable monthly and in advance by check or money transfer. It is adjustable annually according to the variation of the I.R.L.</li>
+          <li>The security deposit is equal to two months rent except charges, it is due at the signing of the lease and returned within two months after the end of the lease, Unless damaged or unpaid rent by the tenant.</li>
+          <li>State Aid (A.L) may be requested by the tenant. See website <a href="http://www.caf.fr" target="_blank">www.caf.fr</a></li>
+          <li>The security deposit guarantees the payment of the rent and rental expenses by the tenant, as well as the good performance by the latter of the terms of the lease.</li>
+          <li>An insurance for rental risks needs to be subscribed by the tenant at the entrance in the apartment and for the duration of the lease.</li>
       papers:
-        title: Pièces à fournir
+        title: Documents required
         bail:
           title: |
-            À la signature du bail :
+            Upon signature of the lease :
           content: |
-            <li>Copie de la carte d’identité du locataire.</li>
-            <li>Copie de la carte d’identité de chaque caution,</li>
-            <li>Copie du dernier rôle d’imposition à l’I.R.P.P. et des trois derniers bulletins de salaires de la caution.</li>
+            <li>Copy of the tenant's identity card.</li>
+            <li>Copy of the identity card of each guarantee.</li>
+            <li>Copy of the last tax roll to the I.R.P.P. Or the last three salary bulletins of the guarantee.</li>
         place:
           title: |
-            À l’entrée dans les lieux
+            Upon entering the apartment
           content: |
-            <li>L’attestation d’assurance locative.</li>
+            <li>Certificate of insurance.</li>
     list:
       studio-type-1:
-        title: Studios type 3 de 17 à 22m2
-        description: À partir de 315€
+        title: Studios style 1 from 17 to 22m2
+        description: From 310€ to 375€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
-          <li>Étagères et penderie.</li>
-          <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
-          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Bathroom with bath, washbasin, WC.</li>
+          <li>Shelves and wardrobe.</li>
+          <li>Table, desk and chairs.</li>
+          <li>Bed in 90 cm or 140 cm with mattress and covers.</li>
+          <li>Telephone socket, intercom, TV channels receiver Satellite ASTRA, Internet access by WIFI.</li>
+          <li>All apartments are almost identical and equipped in the same way.</li>
       studio-type-2:
-        title: Studios type 2 de 17 à 22m2
-        description: À partir de 315€
+        title: Studios style 2 from 17 to 22m2
+        description: From 310€ to 375€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
-          <li>Étagères et penderie.</li>
-          <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
-          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Bathroom with bath, washbasin, WC.</li>
+          <li>Shelves and wardrobe.</li>
+          <li>Table, desk and chairs.</li>
+          <li>Bed in 90 cm or 140 cm with mattress and covers.</li>
+          <li>Telephone socket, intercom, TV channels receiver Satellite ASTRA, Internet access by WIFI.</li>
+          <li>All apartments are almost identical and equipped in the same way.</li>
       studio-type-3:
-        title: Studios type 2 de 17 à 22m2
-        description: À partir de 315€
+        title: Studios style 3 from 17 to 22m2
+        description: From 310€ to 375€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
-          <li>Étagères et penderie.</li>
-          <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
-          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Bathroom with bath, washbasin, WC.</li>
+          <li>Shelves and wardrobe.</li>
+          <li>Table, desk and chairs.</li>
+          <li>Bed in 90 cm or 140 cm with mattress and covers.</li>
+          <li>Telephone socket, intercom, TV channels receiver Satellite ASTRA, Internet access by WIFI.</li>
+          <li>All apartments are almost identical and equipped in the same way.</li>
       t1:
-        title: T1 bis de 22 à 35m2
-        description: À partir de 380€
+        title: One-roomed apartment from 30 to 48m2
+        description: From 440€ to 460€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
-          <li>Étagères et penderie.</li>
-          <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
-          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Bathroom with bath, washbasin, WC.</li>
+          <li>Shelves and wardrobe.</li>
+          <li>Table, desk and chairs.</li>
+          <li>Bed in 140 cm with mattress and covers.</li>
+          <li>Telephone socket, intercom, TV channels receiver Satellite ASTRA, Internet access by WIFI.</li>
+          <li>All apartments are almost identical and equipped in the same way.</li>
       t2:
-        title: T2 Mezzanine de 35 à 50m2
-        description: À partir de 420€
+        title: One-bedroom mezzanine apartment from 35 to 50m2
+        description: From 420€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
-          <li>Étagères et penderie.</li>
-          <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
-          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Bathroom with bath, washbasin, WC.</li>
+          <li>Shelves and wardrobe.</li>
+          <li>Table, desk and chairs.</li>
+          <li>Bed in 140 cm with mattress and covers.</li>
+          <li>Telephone socket, intercom, TV channels receiver Satellite ASTRA, Internet access by WIFI.</li>
+          <li>All apartments are almost identical and equipped in the same way.</li>
       t3:
-        title: T3 de 50 à 58m2
-        description: À partir de 420€
+        title: Two-bedroom apartment from 50 to 68m2
+        description: From 510€ to 520€
         accommodations: |
-          <li>Kitchenette complète : frigo, plaques électriques, hotte aspirante, évier, rangements.</li>
-          <li>Salle de bain avec baignoire.</li>
-          <li>Étagères et penderie.</li>
-          <li>Table, bureau et chaises.</li>
-          <li>Lit en 90 cm ou 140 cm.</li>
-          <li>Prise téléphone, interphone, chaînes TV Récepteur Satellite TNT HD ASTRA, accés Internet par WIFI.</li>
-          <li>Tous les logements sont quasiment identiques et équipés de la même façon.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Bathroom with bath, washbasin, WC.</li>
+          <li>Shelves and wardrobe.</li>
+          <li>Table, desk and chairs.</li>
+          <li>Bed in 140 cm with mattress and covers.</li>
+          <li>Telephone socket, intercom, TV channels receiver Satellite ASTRA, Internet access by WIFI.</li>
+          <li>All apartments are almost identical and equipped in the same way.</li>
 
   services:
     title: |
-      Logements meublés.
-      <span>Équipements et services inclus.</span>
+      Furnished apartment.
+      <span>Facilities and services included.</span>
     highlights:
       wifi:
-        title: Wifi gratuit
-        description: par fibre optique
+        title: Free Wifi
+        description: By optical fiber
       guards:
-        title: Gardiens
-        description: Conciergerie
+        title: Watchman
+        description: Concierge's lodge
       parking:
         title: Parking
-        description: personnel
+        description: personal
       laundromat:
-        title: Laverie
+        title: Laundromat
         description: 24/24 - 7/7
     list:
       dishes:
-        title: Kit vaisselle
+        title: Crockery
       bike:
-        title: Local à vélo
+        title: Bike parking
       handicap:
-        title: Accès handicapé
+        title: Handicap access
       tv:
-        title: TNT HD ASTRA
+        title: ASTRA HD Satellite Receiver
       meeting:
-        title: Salle de réunion
+        title: Meeting room
 
   links:
     title: Liens utiles.
     more:
       af:
-        title: Avez-vous le droit à l’aide au logement ?
-        description: Faites votre simulation sur le site de la F !
+        title: Do you have the right to housing assistance ?
+        description: Make your simulation on the CAF website !
         url: https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lelogement
       cgl:
-        title: Conditions de locations.
-        description: Bail de location et pièces à fournir.
+        title: Terms of rent.
+        description: Rental lease and documents to provide.
         url: ../conditions-de-locations
     school:
       college:
