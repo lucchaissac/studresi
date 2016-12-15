@@ -1,45 +1,29 @@
-###
-# Page options, layouts, aliases and proxies
-###
+helpers do
+  def svg_tag(svg, opts = {})
+    content_tag :svg, opts do
+      tag :use, 'xlink:href' => "##{svg}"
+    end
+  end
+
+  def inline_svg(path)
+    File.open "source/images/#{path}", 'rb', &:read
+  end
+end
+
 activate :i18n, mount_at_root: :fr, langs: [:fr, :en]
+activate :sprockets
 
-# Per-page layout changes:
-#
-# With no layout
-page '/*.xml', layout: false
-page '/*.json', layout: false
-page '/*.txt', layout: false
+set :fonts_dir, 'fonts'
 
-# With alternative layout
-# page "/path/to/file.html", layout: :otherlayout
+ignore '*/vendor/*'
 
-# Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
-# proxy "/this-page-has-no-template.html", "/template-file.html", locals: {
-#  which_fake_page: "Rendering a fake page with a local variable" }
-
-# General configuration
-
-# Reload the browser automatically whenever files change
 configure :development do
   activate :livereload
 end
 
-###
-# Helpers
-###
-
-# Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
-
-# Build-specific configuration
 configure :build do
-  # Minify CSS on build
-  # activate :minify_css
-
-  # Minify Javascript on build
-  # activate :minify_javascript
+  activate :minify_css
+  activate :minify_javascript
+  activate :minify_html
+  activate :asset_hash
 end
