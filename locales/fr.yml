@@ -23,6 +23,9 @@ fr:
       facebook:
         url: |
           https://www.facebook.com/R%C3%A9sidence-Universitaire-Studr%C3%A9si-122758811539837/?ref=aymt_homepage_panel&__mref=message_bubble
+      google:
+        url: |
+          https://plus.google.com/u/0/114198720357808713899
 
   flash:
     visits: |
@@ -35,7 +38,7 @@ fr:
         url: tel:+33687120613
       mail:
         title: Contactez-nous par Email
-        url: mailto:"#"
+        url: mailto:studresi@gmail.com
 
   distance:
     title: |

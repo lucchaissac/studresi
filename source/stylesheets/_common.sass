@@ -86,6 +86,8 @@ header
         margin: 0 0 0 20px
         &:hover
           opacity: .5
+        &.lang
+          padding: 0
         &.tel
           background: url(../images/icons/tel.svg) no-repeat 4px 0
         &.mail
@@ -202,6 +204,11 @@ footer
     padding: 40px 0
     font-weight: 400
     position: relative
+    a
+      &:hover
+        color: $color-brand
+        &::before
+          color: $color-text
     strong
       font-weight: 600
     address
@@ -220,10 +227,6 @@ footer
             content: ""
             margin: 0
         a
-          &:hover
-            color: $color-brand
-            &::before
-              color: $color-text
           &::before
             content: "/"
             margin: 0 6px 0 0

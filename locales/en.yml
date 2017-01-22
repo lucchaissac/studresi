@@ -1,21 +1,22 @@
 en:
 
   header:
-    logo: <strong>Studresi</strong> Student Residences in Tarbes
+    logo: <strong>Studresi</strong> Student accommodation in Tarbes
 
   address: 28 Rue Sainte-Catherine, 65000 Tarbes
 
   footer:
     copyright: © Studresi Student Residences in Tarbes
+    address: <a href="https://goo.gl/maps/RHsy6CkUnxF2" target="_blank">28 Rue Sainte-Catherine, 65000 Tarbes</a>
     list:
       studio:
         title: Student studio apartment
       t1:
-        title: Student one-roomed apartment
+        title: Student 1-bedroom flat
       t2:
-        title: Student one-bedroom apartment
+        title: Student 1-bedroom flat
       t3:
-        title: Student two-roomed apartment
+        title: Student 2-bedroom flat
     social:
       twitter:
         url: |
@@ -23,10 +24,13 @@ en:
       facebook:
         url: |
           https://www.facebook.com/R%C3%A9sidence-Universitaire-Studr%C3%A9si-122758811539837/?ref=aymt_homepage_panel&__mref=message_bubble
+      google:
+        url: |
+          https://plus.google.com/u/0/114198720357808713899
 
   flash:
     visits: |
-      Free viewing and pre-booking before exam results. <span>Contact us now</span>
+      Free viewing and available for pre-booking before exam results. <span>Contact us now</span>
 
   contacts:
     list:
@@ -35,12 +39,12 @@ en:
         url: tel:+33687120613
       mail:
         title: Contact us by email
-        url: mailto:"#"
+        url: mailto:studresi@gmail.com
 
   distance:
     title: |
-      10 minutes walking from the University center.
-      <span>Convenient stores and services closed to within 200 yards.</span>
+      A quick 10 minute walk from the university campus.
+      <span>Convenience stores within 100m.</span>
 
   flat:
     conditions:
@@ -76,10 +80,10 @@ en:
             <li>Certificate of insurance.</li>
     list:
       studio-type-1:
-        title: Studios style 1 from 17 to 22m2
+        title: Studio style 1 from 17 to 22m2
         description: From 310€ to 375€
         accommodations: |
-          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, dishes, storage.</li>
           <li>Bathroom with bath, washbasin, WC.</li>
           <li>Shelves and wardrobe.</li>
           <li>Table, desk and chairs.</li>
@@ -87,10 +91,10 @@ en:
           <li>Telephone socket, intercom, TV channels receiver Satellite ASTRA, Internet access by WIFI.</li>
           <li>All apartments are almost identical and equipped in the same way.</li>
       studio-type-2:
-        title: Studios style 2 from 17 to 22m2
+        title: Studio style 2 from 17 to 22m2
         description: From 310€ to 375€
         accommodations: |
-          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, dishes, storage.</li>
           <li>Bathroom with bath, washbasin, WC.</li>
           <li>Shelves and wardrobe.</li>
           <li>Table, desk and chairs.</li>
@@ -98,10 +102,10 @@ en:
           <li>Telephone socket, intercom, TV channels receiver Satellite ASTRA, Internet access by WIFI.</li>
           <li>All apartments are almost identical and equipped in the same way.</li>
       studio-type-3:
-        title: Studios style 3 from 17 to 22m2
+        title: Studio style 3 from 17 to 22m2
         description: From 310€ to 375€
         accommodations: |
-          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, dishes, storage.</li>
           <li>Bathroom with bath, washbasin, WC.</li>
           <li>Shelves and wardrobe.</li>
           <li>Table, desk and chairs.</li>
@@ -109,10 +113,10 @@ en:
           <li>Telephone socket, intercom, TV channels receiver Satellite ASTRA, Internet access by WIFI.</li>
           <li>All apartments are almost identical and equipped in the same way.</li>
       t1:
-        title: One-roomed apartment from 30 to 48m2
+        title: Studio with alcove bedroom from 30 to 48m2
         description: From 440€ to 460€
         accommodations: |
-          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, dishes, storage.</li>
           <li>Bathroom with bath, washbasin, WC.</li>
           <li>Shelves and wardrobe.</li>
           <li>Table, desk and chairs.</li>
@@ -123,7 +127,7 @@ en:
         title: One-bedroom mezzanine apartment from 35 to 50m2
         description: From 420€
         accommodations: |
-          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, dishes, storage.</li>
           <li>Bathroom with bath, washbasin, WC.</li>
           <li>Shelves and wardrobe.</li>
           <li>Table, desk and chairs.</li>
@@ -134,7 +138,7 @@ en:
         title: Two-bedroom apartment from 50 to 68m2
         description: From 510€ to 520€
         accommodations: |
-          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, crockery, storage.</li>
+          <li>Fully equipped kitchenette: fridge, electric hobs, extractor hood, sink, microwave, dishes, storage.</li>
           <li>Bathroom with bath, washbasin, WC.</li>
           <li>Shelves and wardrobe.</li>
           <li>Table, desk and chairs.</li>
@@ -145,65 +149,65 @@ en:
   services:
     title: |
       Furnished apartment.
-      <span>Facilities and services included.</span>
+      <span>What’s included.</span>
     highlights:
       wifi:
         title: Free Wifi
-        description: By optical fiber
+        description: Fibre optic broadband
       guards:
-        title: Watchman
+        title: Concierge
         description: Concierge's lodge
       parking:
         title: Parking
-        description: personal
+        description: off street parking
       laundromat:
         title: Laundromat
         description: 24/24 - 7/7
     list:
       dishes:
-        title: Crockery
+        title: Dishes
       bike:
-        title: Bike parking
+        title: Bike storage
       handicap:
         title: Handicap access
       tv:
-        title: ASTRA HD Satellite Receiver
+        title: ASTRA HD Satellite
       meeting:
         title: Meeting room
 
   links:
-    title: Liens utiles.
+    title: Usefull links.
     more:
       af:
         title: Do you have the right to housing assistance ?
         description: Make your simulation on the CAF website !
         url: https://wwwd.caf.fr/wps/portal/caffr/aidesetservices/lesservicesenligne/estimervosdroits/lelogement
       cgl:
-        title: Terms of rent.
+        title: Terms of agreement.
         description: Rental lease and documents to provide.
         url: ../conditions-de-locations
     school:
       college:
         url: |
-          #
+          http://www.irth-tarbes.fr/
       staps:
         url: |
-          #
+          http://staps.univ-pau.fr/live/
       enit:
         url: |
-          #
+          http://www.enit.fr/fr/index.html
       iut:
         url: |
-          #
+          http://www.iut-tarbes.fr/
       jd:
         url: |
-          #
+          http://jean-dupuy.entmip.fr/
       saint-pierre:
         url: |
-          #
+          http://www.pradeaulasede.fr/
       marie-currie:
         url: |
-          #
+          http://marie-curie.entmip.fr/
       ifsi:
         url: |
-          #
+          http://www.irth-tarbes.fr/

@@ -2,13 +2,17 @@ header
   .wrapper
     .logo 
       = link_to "../"
-        = t 'header.logo'
-    address = t 'address'
+        = image_tag "images/logo.svg"
     ul
       - t('contacts.list').each do |id, contacts|
         li
           = link_to contacts[:url], class: "#{id}"
             = contacts[:title]
+      li
+        = link_to "../", class: "lang"
+          span EN
 
     = link_to "#", class: "flash"
       = t 'flash.visits'
+      
+      
